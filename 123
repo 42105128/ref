@@ -1,0 +1,38 @@
+## 这是***的自我介绍
+我的**兴趣爱好**
+
+我的*擅长*
+
+我改进了~~哪些我不喜欢的内容~~
+
+1. 这是有序列表
+2. 这是有序列表
+3. 这是有序列表
+
+- 这是无续列表
+- 这是无序列表
+- 这是无序列表
+
+[这是到我的仓库的链接](https://github.com/MatthewGYX/geng.git)
+
+[百度](http://www.baidu.com)
+
+需要你自己改图片地址
+
+![avatar](/Users/gengziqin/算法/非标数据集/原始数据/20230223/car_type/byd/比亚迪_4.jpeg)
+
+这是代码块
+
+    public class Test{
+    	System.out.println("Hello World.")
+    }
+
+
+这是整块引用
+
+> print("hello world.")
+>> print("again")
+
+视频换成自己的地址
+
+![视频](/Users/gengziqin/算法/场站测试视频/理想one_4_右侧_车尾_驶入_30s_夜间.mov)
